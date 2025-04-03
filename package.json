@@ -1,0 +1,15 @@
+{
+  "name": "node-assignment",
+  "version": "1.0.0",
+  "description": "these are the node js assignment by geekster",
+  "main": "index.js",
+  "scripts": {
+    "start": "node day-2assignment/script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "day"
+  ],
+  "author": "Parichay Dutta Biswas",
+  "license": "ISC"
+}
