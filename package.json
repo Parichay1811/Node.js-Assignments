@@ -4,7 +4,7 @@
   "description": "these are the node js assignment by geekster",
   "main": "index.js",
   "scripts": {
-    "start": "node day-2assignment/script.js",
+    "start": "node create-your-own-package/script.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
