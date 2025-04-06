@@ -1,0 +1,12 @@
+{
+  "name": "parichay-binary-search",
+  "version": "1.0.1",
+  "description": "this is a package which describes the binary search algorithm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Parichay Dutta Biswas",
+  "license": "ISC"
+}
