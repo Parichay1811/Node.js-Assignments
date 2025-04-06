@@ -1,0 +1,18 @@
+{
+  "name": "ipl-dashboard",
+  "version": "1.0.0",
+  "description": " an overview of an IPL project involving data scraping and visualization",
+  "main": "index.js",
+  "scripts": {
+    "start": "node public/script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ipl"
+  ],
+  "author": "Parichay Dutta Biswas",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^24.6.0"
+  }
+}
