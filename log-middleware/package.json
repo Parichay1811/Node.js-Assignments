@@ -1,0 +1,13 @@
+{
+  "name": "express-request-logger",
+  "version": "1.0.0",
+  "description": "express-request-loggerA Node.js app using Express with custom and optional Morgan request logging middleware",
+  "main": "indec.js",
+  "scripts": {
+    "start":"nodemon indec.js",
+    "dev":"nodemon indec.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Parichay Dutta Biswas",
+  "license": "ISC"
+}
